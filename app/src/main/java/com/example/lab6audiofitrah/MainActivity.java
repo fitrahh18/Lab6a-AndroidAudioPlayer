@@ -1,4 +1,4 @@
-package com.example.lab6a;
+package com.example.lab6audiofitrah;
 
 import androidx.appcompat.app.AppCompatActivity;
 
